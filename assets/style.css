@@ -5,7 +5,7 @@
 header,
 footer {
     width: 100%;
-    height: 120px;
+    height: 145px;
     background-color: blue;
     color: white;
 }
@@ -14,8 +14,8 @@ h1{
     margin-bottom: 10px;
 }
 h2 {
-    text-align:left;
-    color: #08665e;
+    text-align:center;
+    /*color: #08665e;*/
     padding-left: 20px;
 }
 img {
